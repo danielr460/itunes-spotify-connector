@@ -8,7 +8,7 @@ Para ejecutar el script, necesitarás tener instalado Python en tu equipo y las 
 - json
 - plistlib
 - spotipy
-- decouple
+- python-decouple
 
 Además, necesitarás tener una cuenta de desarrollador en Spotify para obtener las credenciales de acceso.
 
